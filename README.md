@@ -9,23 +9,5 @@
 ## バグ、問題発見
 [テンプレート](https://github.com/TakajoDormitory/RollCall/issues/new/choose)にしたがって、[issue](https://github.com/TakajoDormitory/HomePage/issues)の投稿よろしくお願いします。  
 
-## 貢献
-徳山高専生は高城寮GitHubのソースコードに貢献することができます。  
-ただし、以下のルールを守ってください。
-* [TakajoDormitory](https://github.com/TakajoDormitory)に所属する([申請](https://forms.office.com/Pages/ResponsePage.aspx?id=XYP-cpVeEkWK4KezivJfyJYZKS5tU_5OjDR63Mlm_KNUQzlURENaRFpRQ1dVNjlRVzFHRzE3TFk2Ny4u))
-* **自分のユーザー名のブランチ**を作成し、**devブランチ**へプルリクエストを行う
-* プルリクエストはテンプレートにしたがって行う
-* devブランチへのマージは**責任者**が行う
-* devブランチからデフォルトブランチへのプルリクエストは、**責任者**が行う
-* devブランチからデフォルトブランチへのマージについても、**責任者**が行う
-
-徳山工業高等専門学校に帰属する高城寮の著作物です。  
-ソースコードの私的使用、外部使用は禁止です。
-
-## 責任者
-初期開発に携わったメンバーです。
-* [shebang-sh](https://github.com/shebang-sh)
-* [i19fukuda](https://github.com/i19fukuda)
-
 ## 著作権
 Copyright © 2020 TakajoDormitory All Rights Reserved.
